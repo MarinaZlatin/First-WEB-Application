@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: ЇҐаў®Ґ ЇаЁ«®¦Ґ­ЁҐ
-ќв® ЇҐаў®Ґ ЇаЁ«®¦Ґ­ЁҐ ¤«п
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
- [Њ ©Є« • ав«](http://michaelhartl.com/).
+ Ruby on Rails Tutorial: РїРµСЂРІРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ
+Р­С‚Рѕ РїРµСЂРІРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ
+Ruby on Rails Tutorial (http://railstutorial.org/)
+ РњР°Р№РєР» РҐР°СЂС‚Р» (http://michaelhartl.com/).
 
